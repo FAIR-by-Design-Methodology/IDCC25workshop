@@ -9,7 +9,25 @@ tags:
 
 # Minimum Viable Skillset profiles
 
-Introduction
+## [Download the slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/02%20MVS/MVS_presentation.pptx)
+
+
+The Minimum Viable Skillsets (MVS) methodology defines essential profiles for research data professionals—individuals whose roles involve creating, collecting, or using research data, often as evidence. Each MVS profile centres on key elements of a role that supports Open Science. The MVS catalogue defines the purpose, scope, and structure of these profiles.
+
+The MVS draw on established competences frameworks and resources defining the Open Science (OS) mission, activities, or outcomes expected of relevant roles.  MVS synthesise these, profiling each role as an aid to developing new curricula, career paths and courses.  A simple MVS format is proposed to articulate key skills and competences that enable researchers, professionals, and stakeholders to fulfil the OS expectations of the EOSC.
+
+![MVS presentation](./attachments/MVS_presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
+
+## Data Steward: Minimum Viable Skills Profile
+
+The booklet introduces the Minimum Viable Skillset (MVS) for Data Stewards, essential for implementing Open Science principles and supporting the European Open Science Cloud. The MVS outlines two role variations: "Coordinator" and "Embedded." The "Coordinator" role supports an organisation’s research domains, while the "Embedded" role operates closely with specific research teams and their domain practices. These roles may overlap depending on resources, disciplinary needs, and organizational culture.
+
+[The Data Steward booklet](https://zenodo.org/records/14006764)
+
+
+## Template for a Minimum Viable Skillset
+
+The [MVS template](https://zenodo.org/records/10977747) offers guidance on the structure and content of a Minimum Viable Skillset (MVS) Profile, to describe key skills and competences. It has been developed for the purpose of skills development for various roles that enable researchers, professionals, and stakeholders to practice Open Science (OS). It initially targets needs of the European Open Science Cloud (EOSC), and the authors welcome feedback on its potential for this and other contexts. MVS Profiles draw on established competences frameworks and resources, and are proposed as an aid to skills development, especially curricula and course design. Each MVS Profile relates the skillset for a role to the Open Science (OS) practices, activities, and outcomes that may typically be expected of the role concerned.
 
 
 ## Hands-on Activity
@@ -36,4 +54,5 @@ The catalogue of Minimum Viable Skillset (MVS) Profiles describes key skills and
 ## Suggested Reading
 
 - [MVS profiles](https://fair-by-design-methodology.github.io/MVS/latest/)
+- [Template for a Minimum Viable Skillset](https://zenodo.org/records/10977747)
 
