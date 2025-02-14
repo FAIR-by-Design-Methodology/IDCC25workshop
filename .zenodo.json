@@ -1,0 +1,52 @@
+{
+  "creators": [
+    {
+      "affiliation": "University of Edinburgh",
+      "name": "Whyte, Angus",
+      "orcid": "0000-0002-5198-0833"
+    },
+    {
+      "affiliation": "Digital Curation Centre",
+      "name": "Green, Dominique",
+      "orcid": "0000-0002-9411-4281"
+    },
+    {
+      "affiliation": "Ss. Cyril and Methodius University in Skopje",
+      "name": "Filiposka, Sonja",
+      "orcid": "0000-0003-0034-2855"
+    },
+    {
+      "affiliation": "HKDIR",
+      "name": "Weisteen Bjerde, Katrine",
+      "orcid": "0000-0003-3413-4464"
+    },
+    {
+      "affiliation": "GRNET",
+      "name": "Evangelinou, Betty",
+      "orcid": "0000-0002-9846-3315"
+    }
+  ],
+  "description": "Skills4EOSC Workshop at IDCC 2025",
+  "keywords": [
+    "workshop",
+    "Open Science",
+    "Skills",
+    "FAIR",
+    "Recognition"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "2025-02-16",
+  "title": "Open Science in Action: Building Skills, Crafting FAIR Resources, and Recognizing Achievement",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
