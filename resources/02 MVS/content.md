@@ -16,7 +16,7 @@ The Minimum Viable Skillsets (MVS) methodology defines essential profiles for re
 
 The MVS draw on established competences frameworks and resources defining the Open Science (OS) mission, activities, or outcomes expected of relevant roles.  MVS synthesise these, profiling each role as an aid to developing new curricula, career paths and courses.  A simple MVS format is proposed to articulate key skills and competences that enable researchers, professionals, and stakeholders to fulfil the OS expectations of the EOSC.
 
-![MVS presentation](./attachments/MVS_presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
+![MVS presentation](../attachments/MVS_presentation.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
 
 ## Data Steward: Minimum Viable Skills Profile
 
