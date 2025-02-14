@@ -3,8 +3,8 @@ title: "Case Studies and Examples"
 author: "Skills4EOSC"
 tags: 
     - Training Materials
-    - FAIR Learning Objects
-    - FAIR Learning Unit Template
+    - Science4Policy
+    - Interactive workshop
 ---
 
 # Skills4EOSC Example Developed Training Materials
