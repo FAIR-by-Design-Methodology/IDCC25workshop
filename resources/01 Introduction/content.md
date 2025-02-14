@@ -90,7 +90,7 @@ Researchers, educators, and policymakers involved in open science initiatives, a
 
 ## Introduction to Skills4EOSC
 
-![Skills4EOSC presentation](/01%20Introduction/Skills4EOSC%20presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
+![Skills4EOSC presentation](/latest/01%20Introduction/Skills4EOSC%20presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
 
 ## Suggested Reading
 
