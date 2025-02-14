@@ -88,12 +88,13 @@ Researchers, educators, and policymakers involved in open science initiatives, a
     - Final reflections and feedback from participants.
     - Next steps and resources for further learning.
 
-## Summary
+## Introduction to Skills4EOSC
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+![Skills4EOSC presentation](./Skills4EOSC%20presentation.pdf){ type=application/pdf }
 
 ## Suggested Reading
 
+- [Skills4EOSC website](https://www.skills4eosc.eu/)
 - [MVS profiles](https://fair-by-design-methodology.github.io/MVS/latest/)
 - [FAIR-by-Design Methodology](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/)
 
