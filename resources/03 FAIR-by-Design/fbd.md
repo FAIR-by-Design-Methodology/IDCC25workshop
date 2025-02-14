@@ -80,6 +80,7 @@ Upon the identification of potential improvements that should be implemented, th
 ## Hands-on Activity
 
 Instructions:
+
 1.	Part 1: Hands-on Task-Based Design 
     - Work individually or in small groups on the assigned tasks. Be prepared to briefly share your work with the larger group if time allows.
     - [Use the preprepared template doc available here](https://drive.google.com/drive/folders/1jtLEUoQSC0JAyBBirxWslHj3_J91zBN5?usp=sharing). **Copy paste and rename with your nickname before you start working.**
