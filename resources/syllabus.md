@@ -1,29 +1,33 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "Open Science in Action: Building Skills, Crafting FAIR Resources, and Recognizing Achievement"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Angus Whyte
+    - Dominique Green
+    - Sonja Filiposka
+    - Katrine Weisteen Bjerde
+    - Betty Evangelinou
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - Open Science
+    - Skills
+    - FAIR
+    - Recognition
 
-abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+abstract: "Skills4EOSC workshop at IDCC 2025"
+primaryLanguage: "EN"
+license: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+versionDate: "2025-02-16"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
-learningResourceType: "The predominant type or kind that characterizes the learning resource."
+targetGroup: "Researchers, educators, and policymakers involved in open science initiatives, as well as anyone interested in developing skills and educational resources that align with FAIR principles."
+learningResourceType: "HTML"
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+    - Define Minimum Viable Skills for Open Science 
+    - Develop FAIR-by-Design Learning Materials
+    - Validate skills using the Skills4EOSC Recognition Framework
+    - Reuse Existing Learning Materials developed by Skills4EOSC
+accessCost: "N"
+expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
@@ -33,30 +37,26 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Open Science in Action: Building Skills, Crafting FAIR Resources, and Recognizing Achievement 
 
 {!RELEASE_NOTES.md!}
 
-# Type (Course/Workshop/Webinar)
+# Workshop
 
-## Date/Time: when it will be offered
+## Date/Time: 18th February 2025 08:30 - 16:00
 
-- put available from date if it is self-paced
-
-## Location
-
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+## Location: IDCC 2025, Boon-van der Starp room
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+This workshop is designed to equip participants with the essential skills necessary for successful engagement in Open Science by taking advantage of the Skills4EOSC project outputs. Through interactive sessions, attendees will learn how to use the Minimum Viable Skills profiles, develop FAIR-compliant learning materials, and employ a recognition framework to acknowledge and reward these competencies.
 
-## Target audience: target audience description
+## Target audience
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+Researchers, educators, and policymakers involved in open science initiatives, as well as anyone interested in developing skills and educational resources that align with FAIR principles.
+
+
+## Expertise Level / Skill Level: Beginner
 
 ## Primary Language: English
 
@@ -64,57 +64,56 @@ hide:
 
 ## Prerequisites
 
-- if any
+- none
 
 ## Duration
 
-- total training duration
+- full day workshop
 
-## Training objectives
+## Workshop objectives
 
-- list of specific training objectives
+- Define Minimum Viable Skills for Open Science 
+- Develop FAIR-by-Design Learning Materials
+- Validate skills using the Skills4EOSC Recognition Framework
+- Reuse Existing Learning Materials developed by Skills4EOSC
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+Open Science, Skills, FAIR, Recognition
 
 ## Agenda: Training Schedule - Training Structure
 
 | Date/Time | Topic             |
 |-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| 8:30-9:00  | Introduction   |
+| 9:00-10:00  | Defining Minimum Viable Skills   |
+| 10:00-10:30  | coffee break      |
+| 10:30-12:00  | Developing FAIR-by-Design Learning Materials   |
+| 12:00-13:00  | lunch break       |
+| 13:00-14:00  | The Skills4EOSC Recognition Framework   |
+| 14:00-14:30  | coffee break      |
+| 14:30-15:30  | Case Studies and Examples   |
+| 15:30-16:00  | Conclusion and Wrap-up   |
 
 ## Resources and Materials
 
-- location of available resources for the training
-
-## Certification Information
-
-- if any
+All resources are published in these materials.
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+Angus Whyte, Dominique Green, Sonja Filiposka, Katrine Weisteen Bjerde, Betty Evangelinou
 
 # Trainer(s)
 
-- List of people involved in delivering the training
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+Kevin Ashley, Sonja Filiposka, Betty Evangelinou
 
 ## Contact information
 
-- how to reach out to training organizers
+sonja.filiposka@finki.ukim.mk
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## DOI
 
@@ -126,6 +125,6 @@ Skills4EOSC is dedicated to ensuring that all produced learning materials are ac
 
 ### Acknowledgement
 
-These learning materials have been developed by following the [FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540).
+These learning materials have been developed by following the [FAIR-by-Design Methodology](https://zenodo.org/records/8305540).
 
 ![Skills4EOSC logo](./attachments/skills4eosc.png)
