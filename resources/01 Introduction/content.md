@@ -12,7 +12,7 @@ tags:
 
 # Workshop Introduction
 
-## [Download the introductory Skills4EOSC slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/blob/6fd27decab79947ca8f7ddd816e8cefec870b2d1/resources/01%20Introduction/Skills4EOSC%20presentation.pptx)
+## [Download the introductory Skills4EOSC slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/01%20Introduction/Skills4EOSC%20presentation.pptx)
 
 In the rapidly evolving landscape of research, Open Science has become a pivotal force driving transparency, collaboration, and innovation. However, the transition to Open Science requires researchers and research support personnel to develop a specific set of skills, create educational resources that adhere to FAIR (Findable, Accessible, Interoperable, and Reusable) principles, and establish recognition mechanisms that validate these efforts.
 
@@ -90,7 +90,7 @@ Researchers, educators, and policymakers involved in open science initiatives, a
 
 ## Introduction to Skills4EOSC
 
-![Skills4EOSC presentation](./attachments/Skills4EOSC%20presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
+![Skills4EOSC presentation](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/blob/main/resources/01%20Introduction/attachments/Skills4EOSC%20presentation.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
 
 ## Suggested Reading
 
