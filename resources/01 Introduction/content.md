@@ -12,6 +12,8 @@ tags:
 
 # Workshop Introduction
 
+## [Download the introductory Skills4EOSC slides in PDF](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/blob/6fd27decab79947ca8f7ddd816e8cefec870b2d1/resources/01%20Introduction/Skills4EOSC%20presentation.pdf)
+
 In the rapidly evolving landscape of research, Open Science has become a pivotal force driving transparency, collaboration, and innovation. However, the transition to Open Science requires researchers and research support personnel to develop a specific set of skills, create educational resources that adhere to FAIR (Findable, Accessible, Interoperable, and Reusable) principles, and establish recognition mechanisms that validate these efforts.
 
 This workshop is designed to equip participants with the essential skills necessary for successful engagement in Open Science by taking advantage of the Skills4EOSC project outputs. Through interactive sessions, attendees will learn how to use the Minimum Viable Skills profiles, develop FAIR-compliant learning materials, and employ a recognition framework to acknowledge and reward these competencies.
