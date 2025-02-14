@@ -9,6 +9,10 @@ tags:
 
 # Skills4EOSC Example Developed Training Materials
 
+Communicating science effectively is becoming increasingly crucial in empowering society to take evidence-informed decisions to address its challenges, especially in the context of evidence-informed policymaking (often referred to as “science4policy”).
+
+SKILLS4EOSC has developed a two-day interactive workshop that aims to enhance researchers' communication skills and facilitate dialogue with policymakers by upskilling communication competencies through theoretical learning and practical application.
+
 ## [Download the slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/05%20Use%20Cases/Skills4EOSC_Workshop%20Presentation_final.pptx)
 
 ![Case Studies](../attachments/UseCases.pdf){ type=application/pdf style="min-height:50vh;width:100%" }
@@ -33,10 +37,30 @@ This activity aims to enhance participants' understanding of open science princi
 
 ## Summary
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+The final set of courses in the Open Science and Evidence-Informed Decision-Making curriculum follows a structured approach that combines self-paced learning with interactive live sessions to ensure an engaging and comprehensive learning experience.
+
+1. Self-Paced Component
+    - Delivered through Moodle, allowing learners to progress at their own pace.
+    - Includes pre-recorded lectures, readings, and interactive activities (e.g., quizzes, case studies).
+    - Different formats of material were provided (Video presentations with voiceover, PPTs to facilitate reuse, PDFs to facilitate navigation and sharing, Instructor’s notes and narrative for easier understanding of the narrated video)
+    - Participants complete knowledge checks before moving to the live session.
+
+2. Live Interactive Sessions
+    - Conducted online via platforms such as BigBlueButton integrated into Moodle.
+    - Features recaps, interactive discussions, and Q&A to clarify concepts from the self-paced section.
+    - Uses Wooclap for icebreakers and interactive polling to engage participants.
+    - Includes group activities, case discussions, and role-playing for practical application.
 
 ## Suggested Reading
 
 - [D3.4 Science4Policy Kit for Competence Centres](https://zenodo.org/records/14538239)
+- Booklets: 
+    - [Guidelines & Best practices for Honest Brokers](https://zenodo.org/records/14712238)
+    - [Science4Policy kit for Competence Centers](https://zenodo.org/records/14751412)
+    - [Advancing evidence-based policymaking through Open Collections and Open Science Principles](https://www.nhm.at/en/publications/978-3-903096-78-3)
+    - [Guidelines and FAQs on ELSI aspects for Civil Servants and Policy Makers (booklet in progress - Full deliverable here](https://zenodo.org/records/14797142)
+- Workshops:
+    - [Science4Policy - Bridging the gap between research and decision-making](https://www.skills4eosc.eu/participate/events/skills4eosc-workshop-science4policy-bridging-the-gap-between-research-and-decision-making)
+
 
 
