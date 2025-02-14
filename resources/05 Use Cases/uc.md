@@ -7,7 +7,7 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Skills4EOSC Developed Training Materials
+# Skills4EOSC Example Developed Training Materials
 
 ## [Download the slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/05%20Use%20Cases/Skills4EOSC_Workshop%20Presentation_final.pptx)
 
@@ -37,6 +37,6 @@ At the end provide a short summary of the main points of the learning unit (thes
 
 ## Suggested Reading
 
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
+- [D3.4 Science4Policy Kit for Competence Centres](https://zenodo.org/records/14538239)
+
 
