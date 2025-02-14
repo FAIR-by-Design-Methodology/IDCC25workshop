@@ -28,7 +28,6 @@ plugins:
         - "*Templates/*"
         - "*Feedback/*"
         - "*.tmp"
-        - "*.pdf"
         - "*.gz"
         - "*.pptx"
         - "*_plan.md"
