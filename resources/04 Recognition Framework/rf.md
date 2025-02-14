@@ -15,6 +15,8 @@ Recognising the newly obtained skills is of great importance in the life long le
 
 The Skills4EOSC Recognition Framework is designed to support the professional development and recognition of skills within the Open Science ecosystem. As Open Science becomes increasingly integral to research and data management across Europe, there is a growing need for a consistent and reliable way to certify the skills and competencies of professionals involved in this field. The framework addresses this need by providing a standardized approach to the use of digital credentials.
 
+## [Download the slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/04%20Recognition%20Framework/Skills4EOSC-RecognitionFramework.pptx)
+
 ## Key Aspects of the Skills4EOSC Recognition Framework:
 
 **Digital Credentials**
