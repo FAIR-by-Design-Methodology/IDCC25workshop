@@ -1,6 +1,6 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
-author: "Skills4EOSC T2.3"
+title: "Use Cases"
+author: "Skills4EOSC"
 tags: 
     - Training Materials
     - FAIR Learning Objects
