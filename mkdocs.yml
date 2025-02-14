@@ -1,4 +1,4 @@
-site_name: IDCC'25 Workshop: Open Science in Action
+site_name: IDCC25 Workshop Open Science in Action
 docs_dir: resources
 theme:
   name: material

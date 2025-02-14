@@ -9,7 +9,9 @@ tags:
 
 # Skills4EOSC Developed Training Materials
 
-Introduction
+## [Download the slides in PPTX](https://github.com/FAIR-by-Design-Methodology/IDCC25workshop/raw/refs/heads/main/resources/05%20Use%20Cases/Skills4EOSC_Workshop%20Presentation_final.pptx)
+
+![Case Studies](../attachments/UseCases.pdf){ type=application/pdf style="min-height:50vh;width:100%" }
 
 
 ## Activity
