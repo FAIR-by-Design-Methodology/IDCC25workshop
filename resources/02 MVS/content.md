@@ -42,9 +42,9 @@ Work on the steps below with others at your table.
 4. Share these with others at your table, and narrow the list down to 3-5 for each role.
 5. In your group, read the Skills4EOSC profiles for roles A and B.
 6. Discuss
- - How close a match are the ‘essential skills and competences’ for each profile to your group’s list? E.g. very poor/ poor/ ok/ good/ very good?
- - Are there any skills or competences you suggest we add or change in the profiles? Please give one or two reasons for any suggestions. 
-- If you have time, also look at the ‘OS skills terms’ listed in the profiles. These are selected from published ontologies and have definitions available online that you can refer to in your discussion.
+    - How close a match are the ‘essential skills and competences’ for each profile to your group’s list? E.g. very poor/ poor/ ok/ good/ very good?
+    - Are there any skills or competences you suggest we add or change in the profiles? Please give one or two reasons for any suggestions. 
+    - If you have time, also look at the ‘OS skills terms’ listed in the profiles. These are selected from published ontologies and have definitions available online that you can refer to in your discussion.
 7. Share with other groups – which roles you looked at, 3 main points of your feedback on the profiles.  (2 minutes each)
 
 ## Summary
