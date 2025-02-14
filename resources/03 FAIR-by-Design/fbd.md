@@ -77,6 +77,26 @@ Upon the identification of potential improvements that should be implemented, th
 ![FAIR-by-Design Booklet](../attachments/FbDbooklet.pdf){ type=application/pdf style="min-height:50vh;width:100%" }
 
 
+## Hands-on Activity
+
+Instructions:
+1.	Part 1: Hands-on Task-Based Design 
+    - Work individually or in small groups on the assigned tasks. Be prepared to briefly share your work with the larger group if time allows.
+    - [Use the preprepared template doc available here](https://drive.google.com/drive/folders/1jtLEUoQSC0JAyBBirxWslHj3_J91zBN5?usp=sharing). **Copy paste and rename with your nickname before you start working.**
+2.	Part 2: Self-Review Quiz: 
+    - Join the Particify room on your device using the provided link or QR code. Answer the quiz questions, reviewing the explanations provided after each question to reinforce your understanding of the concepts.
+3.	Review and Discussion: 
+    - If time allows, the facilitator can lead a brief discussion about the hands-on tasks, the quiz results, and any remaining questions participants have.
+
+Expected Outcomes:
+
+- Participants gain practical experience in designing key elements of an Open Access training module.
+- Participants develop a deeper understanding of the FAIR principles and how they apply to Open Access.
+- Participants learn how to properly attribute resources and consider reusability in their design.
+- Participants understand the importance of verification and continuous improvement in the design process.
+- The quiz provides immediate feedback and reinforces learning.
+
+
 ## Summary
 
 Training is vital for the European Open Science Cloud (EOSC) to succeed as key EU Open Science research meta-infrastructure. It tackles the challenge of upskilling a large community of various stakeholders with the necessary competences to both build and use data and services. It is therefore important that the EOSC training community is able to efficiently collaborate ensuring the delivery of high-quality up-to-date trainings and learning opportunities. To help achieve this goal, Task 3 of Work Package 2 within the Skills4EOSC project has produced a methodology for developing FAIR-by-Design learning materials that will ensure maximum reusability of developed learning materials within the community and higher-quality materials.
