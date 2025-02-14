@@ -14,9 +14,11 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - md_in_html
+  - attr_list
 plugins:
   - search
   - tags
+  - mkdocs-pdf
   - mike:
       version_selector: true
   - exclude:
