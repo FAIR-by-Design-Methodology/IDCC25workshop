@@ -1,13 +1,13 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
-author: "Skills4EOSC T2.3"
+title: "Minimum Viable Skillset profiles"
+author: "Skills4EOSC"
 tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - FAIR Learning Unit Template
+    - Minimum viable skills
+    - profiles
+    - templating
 ---
 
-# Learning Unit Template
+# Minimum Viable Skillset profiles
 
 Introduction
 
