@@ -19,6 +19,8 @@ The premises embedded in the FAIR-by-Design methodology are transcending the fie
 
 The FAIR-by-Design Methodology is created around the popular backward instructional design process that is used to develop high-quality learner-centric materials. We have taken the steps of the backward instruction design process and added additional considerations to ensure that the process will be aimed towards the design of FAIR learning content from both the perspective of the learners and the perspective of the instructional designers and trainers.
 
+## Methodology Stages
+
 The methodology is broken down into a number of stages that are connected in a feedback loop thus enabling continuous improvement:
 
 ### Prepare
