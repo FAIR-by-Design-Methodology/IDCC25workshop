@@ -13,7 +13,7 @@ authors:
     given-names: Sonja
     orcid: https://orcid.org/0000-0003-0034-2855
     affiliation: Ss. Cyril and Methodius University in Skopje
-  - family-names: Weisteen Bjerde 
+  - family-names: Weisteen Bjerde
     given-names: Katrine
     orcid: https://orcid.org/0000-0003-3413-4464
     affiliation: HKDIR
@@ -29,9 +29,9 @@ date-released: "2025-02-16"
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
- - "workshop"
- - "Open Science"
- - "Skills"
- - "FAIR"
- - "Recognition"
+  - "workshop"
+  - "Open Science"
+  - "Skills"
+  - "FAIR"
+  - "Recognition"
 repository: "https://github.com/FAIR-by-Design-Methodology/IDCC25workshop"
