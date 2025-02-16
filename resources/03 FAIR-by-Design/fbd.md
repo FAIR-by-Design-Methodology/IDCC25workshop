@@ -86,8 +86,7 @@ Instructions:
     - [Use the preprepared template doc available here](https://drive.google.com/drive/folders/1jtLEUoQSC0JAyBBirxWslHj3_J91zBN5?usp=sharing). **Copy paste and rename with your nickname before you start working.**
 2.	Part 2: Self-Review Quiz: 
     - Join the Particify room on your device using the provided link or QR code. Answer the quiz questions, reviewing the explanations provided after each question to reinforce your understanding of the concepts.
-3.	Review and Discussion: 
-    - If time allows, the facilitator can lead a brief discussion about the hands-on tasks, the quiz results, and any remaining questions participants have.
+
 
 Expected Outcomes:
 
