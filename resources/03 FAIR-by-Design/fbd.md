@@ -85,7 +85,7 @@ Instructions:
     - Work individually or in small groups on the assigned tasks. Be prepared to briefly share your work with the larger group if time allows.
     - [Use the preprepared template doc available here](https://drive.google.com/drive/folders/1jtLEUoQSC0JAyBBirxWslHj3_J91zBN5?usp=sharing). **Copy paste and rename with your nickname before you start working.**
 2.	Part 2: Self-Review Quiz: 
-    - Join the Particify room on your device using the provided link or QR code. Answer the quiz questions, reviewing the explanations provided after each question to reinforce your understanding of the concepts.
+    - Join the [Particify room](partici.fi/91596121) on your device using the provided link or QR code. Answer the quiz questions, reviewing the explanations provided after each question to reinforce your understanding of the concepts.
 
 
 Expected Outcomes:
