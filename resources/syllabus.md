@@ -117,7 +117,7 @@ sonja.filiposka@finki.ukim.mk
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+[https://doi.org/10.5281/zenodo.14905897](https://doi.org/10.5281/zenodo.14905897)
 
 ## Accessibility Mission
 
